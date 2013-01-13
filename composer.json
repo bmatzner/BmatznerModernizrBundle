@@ -1,0 +1,24 @@
+{
+    "name":        "bmatzner/modernizr-bundle",
+    "type":        "symfony-bundle",
+    "description": "Modernizr Bundle for Symfony2",
+    "keywords":    ["html5", "detection", "javascript", "symfony"],
+    "homepage":    "http://modernizr.com/",
+    "license":     ["MIT", "BSD-3"],
+    "authors":     [
+        {
+            "name":     "Bernd Matzner",
+            "email":    "bernd@matznermatzner.de",
+            "homepage": "http://berndmatzner.de"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "Bmatzner\\ModernizrBundle": ""
+        }
+    },
+    "target-dir":  "Bmatzner/ModernizrBundle"
+}
