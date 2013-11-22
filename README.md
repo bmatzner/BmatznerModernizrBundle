@@ -2,8 +2,8 @@
 
 ## Current Version
 
-Modernizr 2.6.2
-includes custom build similar to the one used by Zurb Foundation 3
+Modernizr 2.7.0
+includes custom build similar to the one used by Zurb Foundation
 
 ## Installation
 
@@ -15,7 +15,7 @@ includes custom build similar to the one used by Zurb Foundation 3
 {
     "require": {
 		// ...
-        "bmatzner/modernizr-bundle": "*"
+        "bmatzner/modernizr-bundle": "~2.7"
     }
 }
 ```
