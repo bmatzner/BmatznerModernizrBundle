@@ -2,7 +2,7 @@
 
 ## Current Version
 
-Modernizr 2.7.0
+Modernizr 2.7.1
 includes custom build similar to the one used by Zurb Foundation
 
 ## Installation
